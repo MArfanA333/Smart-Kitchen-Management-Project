@@ -1,0 +1,7 @@
+UserId: C6tmjf2PVJSQFlyBKsat0SJqBUu1
+item
+ItemId: 20
+Name: cereal
+LocationId: 10
+Weight: 300.5
+Added: true

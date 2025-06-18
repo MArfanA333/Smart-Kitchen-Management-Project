@@ -1,0 +1,10 @@
+UserId: C6tmjf2PVJSQFlyBKsat0SJqBUu1
+location
+LocationId: 11
+Name: Freezer 1
+MotionDetection: true
+Temperature: -18.5
+Humidity: 40.9
+AlcoholLevel: 0
+Category: freezer
+Weight: 1500.8
