@@ -25,6 +25,8 @@ Smart-Kitchen-Management-Project/
 ├── application/                # Flutter mobile application
 │
 ├── uploadscript/              # Data scripts for Firebase
+├── Design Plan Smart Kitchen Management Plan # Report for design phase of project
+├── Implementation Smart Kitchen Management Plan # Report for Implementation phase of project
 └── README.md                  # This file
 ````
 
